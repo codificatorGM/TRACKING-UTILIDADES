@@ -1,6 +1,6 @@
 # Tracking-Utilidades
 
-JAVA multi-utilities system created by Ruben Norori and Francisco Norori with a retro-game 90's GUI.
+JAVA multi-utilities system created by Ruben Norori and Francisco Norori with a retro-game 90's aesthetic GUI.
 
 Este programa tiene 3 utilidades
 
