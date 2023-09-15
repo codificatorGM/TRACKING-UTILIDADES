@@ -4,7 +4,7 @@ JAVA multi-utilities system created by Ruben Norori and Francisco Norori with a 
 
 Este programa tiene 3 utilidades
 
-- Gains Tracker: cada dia que levantas pesas puedes acceder al sistema y agregar de una gran lista de ejercicios los sets, reps y detalles acorde a tu dia de entrenamiento, y
+- Gains Tracker: cada dia que levantas pesas puedes acceder al sistema y agregar de una gran lista de ejercicios los sets, reps y detalles acorde a tu dia de entrenamiento, y 
 exportar esta tabla automaticamente a excel para un manejo mas detallado.
 
 - Money Tracker: los dias que recibes tu pago puedes agregar las cantidades recibidas, gastadas, ahorradas y detalles acorde ese dia para un manejo mas amplio del dinero que
